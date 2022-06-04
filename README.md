@@ -36,3 +36,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 "# my-exolot-app" 
 "# my-exolot-app" 
 "# my-exolot-app" 
+"# sharkopedia" 
